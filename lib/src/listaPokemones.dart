@@ -112,5 +112,17 @@ class pokemon {
       height: "2.2 M"
       ),
       
-
+      pokemon(
+      n: "#0129",
+      name: "Magikarp GOD", 
+      imagen: "assets/images/Magikarp.png",
+      type: ["water"], 
+      hp: 145, 
+      atk: 149, 
+      def: 130, 
+      spd: 127, 
+      exp: 150,
+      weight: "20 KG",
+      height: "0.9 M"
+      ),
   ];
