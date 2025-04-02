@@ -1,0 +1,21 @@
+
+Map<String, String> tipoIconos = {
+  'fire': 'assets/icons/fire.png',
+  'water': 'assets/icons/water.png',
+  'electric': 'assets/icons/electric.png',
+  'grass': 'assets/icons/grass.png',
+  'ice': 'assets/icons/ice.png',
+  'psychic': 'assets/icons/psychic.png',
+  'poison': 'assets/icons/pison.png',
+  'bug': 'assets/icons/bug.png',
+  'flying': 'assets/icons/flying.png',
+  'rock': 'assets/icons/rock.png',
+  'ground': 'assets/icons/ground.png',
+  'ghost': 'assets/icons/ghost.png',
+  'dragon': 'assets/icons/dragon.png',
+  'normal': 'assets/icons/normal.png',
+  'dark': 'assets/icons/dark.png',
+  'fairy': 'assets/icons/fairy.png',
+  'fighting': 'assets/icons/fighting.png',
+  'steel': 'assets/icons/steel.png',
+};

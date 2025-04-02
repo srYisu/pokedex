@@ -1,0 +1,39 @@
+name: pokedex
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.3.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.3.5
+
+flutter_native_splash:
+  color: "#303030"  # gris oscuro
+  image: assets/images/pokebola8bit.png # (opcional, si quieres logo)
+  android: true
+  ios: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/pokebola8bit.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/images/pokeballWhite2.png
+    - assets/images/Magikarp.png
+    - assets/images/Magikarp.gif
